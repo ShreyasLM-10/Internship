@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "author": "Aarav Sharma",
+    "date": "2026-08-15",
+    "category": "React",
+    "content": "React is a powerful JavaScript library for building user interfaces. It lets you compose complex UIs from small, isolated pieces of code called components. In this post, we explore the basics of React including JSX, components, and the virtual DOM."
+  },
+  {
+    "id": 2,
+    "title": "Understanding CSS Flexbox",
+    "author": "Priya Patel",
+    "date": "2026-08-20",
+    "category": "CSS",
+    "content": "Flexbox is a one-dimensional layout method for arranging items in rows or columns. It makes it easier to design flexible responsive layouts without using float or positioning. Learn how to use justify-content, align-items, and flex-wrap."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Features You Should Know",
+    "author": "Rohan Gupta",
+    "date": "2026-08-25",
+    "category": "JavaScript",
+    "content": "ES6 introduced many powerful features like arrow functions, template literals, destructuring, spread operator, and classes. These features make JavaScript code cleaner and more readable. Every modern developer should master these fundamentals."
+  },
+  {
+    "id": 4,
+    "title": "Building Responsive Websites",
+    "author": "Sneha Reddy",
+    "date": "2026-08-28",
+    "category": "CSS",
+    "content": "Responsive web design ensures your website looks great on all devices. Using media queries, flexible grids, and responsive images, you can create layouts that adapt to any screen size from mobile phones to large desktop monitors."
+  },
+  {
+    "id": 5,
+    "title": "React Hooks Explained Simply",
+    "author": "Vikram Singh",
+    "date": "2026-09-01",
+    "category": "React",
+    "content": "React Hooks let you use state and other React features in functional components. The most common hooks are useState for managing state and useEffect for side effects. Hooks make your code simpler and easier to understand."
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Node.js",
+    "author": "Ananya Iyer",
+    "date": "2026-08-10",
+    "category": "Backend",
+    "content": "Node.js is a JavaScript runtime built on Chrome's V8 engine. It allows you to run JavaScript on the server side, making it possible to build full-stack applications using a single language. Learn about modules, npm, and creating a basic server."
+  },
+  {
+    "id": 7,
+    "title": "Git and GitHub for Beginners",
+    "author": "Karan Mehta",
+    "date": "2026-08-05",
+    "category": "Tools",
+    "content": "Git is a version control system that helps you track changes in your code. GitHub is a platform where you can host your repositories and collaborate with others. Learn the essential commands like init, add, commit, push, and pull."
+  },
+  {
+    "id": 8,
+    "title": "Understanding the DOM in JavaScript",
+    "author": "Divya Nair",
+    "date": "2026-08-18",
+    "category": "JavaScript",
+    "content": "The Document Object Model (DOM) is a programming interface for web documents. It represents the page as a tree of nodes that you can manipulate with JavaScript. Learn about selectors, event listeners, and dynamic content creation."
+  },
+  {
+    "id": 9,
+    "title": "CSS Grid Layout Tutorial",
+    "author": "Arjun Das",
+    "date": "2026-08-22",
+    "category": "CSS",
+    "content": "CSS Grid is a two-dimensional layout system that lets you create complex web layouts easily. With grid-template-columns, grid-template-rows, and gap properties, you can build magazine-style layouts that were previously very difficult."
+  },
+  {
+    "id": 10,
+    "title": "REST API Basics for Frontend Developers",
+    "author": "Meera Joshi",
+    "date": "2026-08-30",
+    "category": "Backend",
+    "content": "REST APIs allow frontend applications to communicate with servers. Understanding HTTP methods like GET, POST, PUT, and DELETE is essential for any web developer. Learn how to use fetch and handle JSON responses in your projects."
+  },
+  {
+    "id": 11,
+    "title": "VS Code Tips and Tricks",
+    "author": "Rahul Verma",
+    "date": "2026-08-12",
+    "category": "Tools",
+    "content": "Visual Studio Code is one of the most popular code editors. Master keyboard shortcuts, install essential extensions like Prettier and ESLint, use the integrated terminal, and customize your workspace to boost your productivity."
+  },
+  {
+    "id": 12,
+    "title": "Props vs State in React",
+    "author": "Ishita Banerjee",
+    "date": "2026-09-02",
+    "category": "React",
+    "content": "Props and state are both plain JavaScript objects that hold information influencing render output. Props are passed from parent to child components and are read-only, while state is managed within a component and can be updated using setState or useState."
+  }
+]
